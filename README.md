@@ -1,4 +1,4 @@
-# Diversity, Equity, and Inclusion Team 
+# Diversity, Equity, and Inclusion Team (DEIT)
 ## Purpose
 This charter sets out to explain the Diversity, Equity, and Inclusion Team (DEIT). It provides a concise overview of our mission which is increasing voices in the Solid community by inviting individuals from all underrepresented groups. The team shall review interactions, make sure there are equal and supportive opportunities for those in underrepresented groups, and make recommendations to the Solid Team and Community.
 ## Membership
