@@ -3,11 +3,11 @@
 This charter sets out to explain the Diversity, Equity, and Inclusion Team (DEIT). It provides a concise overview of our mission which is increasing voices in the Solid community by inviting individuals from all underrepresented groups. The team shall review interactions, make sure there are equal and supportive opportunities for those in underrepresented groups, and make recommendations to the Solid Team and Community.
 ## Membership
 The Team shall consist of both chair members and community members. All chair members and community members join on a volunteer basis. The chair members are appointed by the Director of Solid and serve an indefinite term. Elections are during the first quarter of the year. The prospective chair candidate can self-nominate, or be nominated by a member’s suggestion. The current chairs are:
-* Lead Chair: [Marrelle Bailey](https://www.linkedin.com/in/marrelle-bailey/) – Works for [Inrupt]([Inrupt](https://inrupt.com/)
+* Lead Chair: [Marrelle Bailey](https://www.linkedin.com/in/marrelle-bailey/) – Works for [Inrupt](https://inrupt.com/)
 * Chair: [Sarven Capadisli](https://csarven.ca/#i) ([Inrupt](https://inrupt.com/))
 * Chair: Jeff Zucker 
-* Chair: Kyra Assaad
-* Chair: Virginia Balseiro 
+* Chair: Kyra Assaad – Works for [Inrupt](https://inrupt.com/)
+* Chair: Virginia Balseiro – Works for [Inrupt](https://inrupt.com/)
 The Director of Solid and chair members will determine the number of community members, always greater than two, to meet or exceed regulatory requirements. All those in a chair member role must disclose relevant ties to organizations/companies/directorships and inform the DEIT of any changes to these when such changes take place. At this time, there are no issues with having multiple affiliations in the Solid community. Anyone can join. The administrators shall establish and approve formal and transparent remuneration policies and procedures for all team members. Chair members do not get paid any director fees. No fees will be required to join. 
 ## Authority
 The DEIT has no expressed or implied power or authority above any other Teams in Solid. The DEIT will hold other Solid Teams accountable in all significant decisions and changes the DEIT makes for the community. The work that we are invested in is written below.
