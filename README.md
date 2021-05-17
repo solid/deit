@@ -8,6 +8,7 @@ The Team shall consist of both chair members and community members. All chair me
 * Chair: Jeff Zucker 
 * Chair: Kyra Assaad – Works for [Inrupt](https://inrupt.com/)
 * Chair: Virginia Balseiro – Works for [Inrupt](https://inrupt.com/)
+
 The Director of Solid and chair members will determine the number of community members, always greater than two, to meet or exceed regulatory requirements. All those in a chair member role must disclose relevant ties to organizations/companies/directorships and inform the DEIT of any changes to these when such changes take place. At this time, there are no issues with having multiple affiliations in the Solid community. Anyone can join. The administrators shall establish and approve formal and transparent remuneration policies and procedures for all team members. Chair members do not get paid any director fees. No fees will be required to join. 
 ## Authority
 The DEIT has no expressed or implied power or authority above any other Teams in Solid. The DEIT will hold other Solid Teams accountable in all significant decisions and changes the DEIT makes for the community. The work that we are invested in is written below.
