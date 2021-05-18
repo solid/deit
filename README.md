@@ -3,7 +3,7 @@
 This charter sets out to explain the Diversity, Equity, and Inclusion Team (DEIT). It provides a concise overview of our mission which is increasing voices in the Solid community by inviting individuals from all underrepresented groups. The team shall review interactions, make sure there are equal and supportive opportunities for those in underrepresented groups, and make recommendations to the Solid Team and Community.
 ## Membership
 The Team shall consist of both chair members and community members. All chair members and community members join on a volunteer basis. The chair members are appointed by the Director of Solid and serve an indefinite term. Elections are during the first quarter of the year. The prospective chair candidate can self-nominate, or be nominated by a member’s suggestion. The current chairs are:
-* Lead Chair: [Marrelle Bailey](https://www.linkedin.com/in/marrelle-bailey/) – Works for [Inrupt](https://inrupt.com/)
+* Chair: [Marrelle Bailey](https://www.linkedin.com/in/marrelle-bailey/) – Works for [Inrupt](https://inrupt.com/)
 * Chair: [Sarven Capadisli](https://csarven.ca/#i) ([Inrupt](https://inrupt.com/))
 * Chair: Jeff Zucker 
 * Chair: Kyra Assaad – Works for [Inrupt](https://inrupt.com/)
