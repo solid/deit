@@ -28,3 +28,6 @@ Achieve gender equity building a voice, volunteer/job opportunities, and work in
 The DEIT will meet at least quarterly and more often as needed. A majority of the community members shall constitute a quorum. The lead chair will keep a copy of the DEIT meeting minutes and forward a copy to the board secretary. The chair members may invite any director, officer, staff member, expert, or other advisor who isn’t a committee member to sit in, listen, and advise; however, these individuals will have no voting power.
 The DEIT will review its charter twice a year and recommend any proposed changes to the board for review. This document will also be available to the public. If you would like to make changes, please submit a PR.
 This charter was written by Marrelle Bailey, approved by the Solid Team on February 25, 2021, and last updated on April 28, 2021.
+
+## Join us!
+[![Join the chat at https://gitter.im/solid/DEIT](https://badges.gitter.im/solid/DEIT.svg)](https://gitter.im/solid/DEIT?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
