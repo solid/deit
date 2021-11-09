@@ -25,7 +25,9 @@ Creating a plan for diversity and inclusion with best practices in the Solid pro
 Increase outreach of Solid’s work into communities with underrepresented groups.
 Achieve gender equity building a voice, volunteer/job opportunities, and work in the Solid community
 ## Meetings
-Meeting notes live [here](https://github.com/solid/deit/blob/main/meetings.md).
+DEI Team Meetings take place on the second Tuesday of the month. 
+
+Meetings are transcribed and [published](https://github.com/solid/deit/blob/main/meetings/).
 
 The DEIT will meet at least quarterly and more often as needed. A majority of the community members shall constitute a quorum. The lead chair will keep a copy of the DEIT meeting minutes and forward a copy to the board secretary. The chair members may invite any director, officer, staff member, expert, or other advisor who isn’t a committee member to sit in, listen, and advise; however, these individuals will have no voting power.
 The DEIT will review its charter twice a year and recommend any proposed changes to the board for review. This document will also be available to the public. If you would like to make changes, please submit a PR.
