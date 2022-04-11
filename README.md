@@ -3,7 +3,7 @@
 This charter sets out to explain the Diversity, Equity, and Inclusion Team (DEIT). It provides a concise overview of our mission which is increasing voices in the Solid community by inviting individuals from all underrepresented groups. The team shall review interactions, make sure there are equal and supportive opportunities for those in underrepresented groups, and make recommendations to the Solid Team and Community.
 ## Membership
 The Team shall consist of both chair members and community members. All chair members and community members join on a volunteer basis. The chair members are appointed by the Director of Solid and serve an indefinite term. Elections are during the first quarter of the year. The prospective chair candidate can self-nominate, or be nominated by a member’s suggestion. The current chairs are:
-* Lead Chair: [Marrelle Bailey](https://www.linkedin.com/in/marrelle-bailey/) – Works for [Inrupt](https://inrupt.com/)
+* Lead Chair: [Marrelle Bailey](https://www.linkedin.com/in/marrelle-bailey/)
 * Chair: [Sarven Capadisli](https://csarven.ca/#i) ([Inrupt](https://inrupt.com/))
 * Chair: Jeff Zucker
 * Chair: [Kyra Assaad](https://www.linkedin.com/in/kyraassaad/) – Works for [Inrupt](https://inrupt.com/)
@@ -13,12 +13,11 @@ The Director of Solid and chair members will determine the number of community m
 ## Authority
 The DEIT has no expressed or implied power or authority above any other Teams in Solid. The DEIT will hold other Solid Teams accountable in all significant decisions and changes the DEIT makes for the community. The work that we are invested in is written below.
 * Increasing diversity, inclusion, and equity throughout the Solid community/ecosystem
-    Making recommendations to the Solid Team and Director of Solid to increase opportunities for all underrepresented groups to make changes
+* Making recommendations to the Solid Team and Director of Solid to increase opportunities for all underrepresented groups to make changes
 * Advocating for the community
-    If either the Solid Team members or community member do not comply with the DEIT’s recommendations or policies. In that case, it will be up to the Solid Team to remedy and/or resolve. They will take action on a case-by-case basis by consulting with the DEIT.
 * Measuring the success behind our recommendations
-    Surveys are offered to various community groups to assess education level, expertise, accessibility/disability, gender, and underrepresented groups.
-    Focus groups will be gathered to report on progress; better see how we can support outside groups or individuals to join or thrive in Solid.
+  * Surveys are offered to various community groups to assess education level, expertise, accessibility/disability, gender, and underrepresented groups.
+  * Focus groups will be gathered to report on progress; better see how we can support outside groups or individuals to join or thrive in Solid.
 ## Responsibilities
 The DEIT Chairs will report their activities to the Director of Solid, in summary, published quarterly.
 Creating a plan for diversity and inclusion with best practices in the Solid project. Also working alongside the W3C’s Inclusion and Diversity Community Group and the Positive Work Environment Community Group.
